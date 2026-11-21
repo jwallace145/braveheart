@@ -1,6 +1,6 @@
 [package]
 name = "braveheart-tools"
-version = "0.55.0"
+version = "0.55.1"
 description = "Developer tools: perft suite runner, performance gate, bench and speed reports, openings, SPRT, match and rating reports, nnue-scale"
 edition.workspace = true
 rust-version.workspace = true

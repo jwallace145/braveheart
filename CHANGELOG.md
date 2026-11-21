@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.55.1](https://github.com/Braveheart-Chess/braveheart/compare/v0.55.0...v0.55.1) (2026-11-21)
+
+
+### Bug Fixes
+
+* **nnue:** name the trainer's production bucket in NET_STORE ([#281](https://github.com/Braveheart-Chess/braveheart/issues/281)) ([1a0f4aa](https://github.com/Braveheart-Chess/braveheart/commit/1a0f4aa75d306b6c9927cbd58a04219793a6e81d))
+
+### Benchmarks
+
+* bench signature 919,304, instructions per node 4016, search 1.70M NPS, perft 198.40M NPS (pass (63)), fail-high first 87.8%, EBF 1.86, TT hit 55.7%
+* since v0.55.0: fail-high first +0.0 pt, EBF +0.00, instructions per node −0.0%, search NPS +12.2%
+* full history: [docs/benchmarks.md](docs/benchmarks.md)
+
 ## [0.55.0](https://github.com/Braveheart-Chess/braveheart/compare/v0.54.0...v0.55.0) (2026-11-18)
 
 
